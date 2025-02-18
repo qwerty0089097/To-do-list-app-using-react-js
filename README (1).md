@@ -1,8 +1,5 @@
 # React Todo List 
 
-![TODO List](https://socialify.git.ci/king04aman/todo-list/image?description=1&font=Jost&forks=1&issues=1&language=1&logo=https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62813940%3Fv%3D4%26h%3D250%26w%3D250%26fit%3Dcover%26mask%3Dcircle%26maxage%3D7d&name=1&owner=1&pattern=Circuit%20Board&pulls&pulls=1&stargazers=1&theme=Dark)
-
-
 This is a simple Todo List application built using ReactJS that utilizes the browser's local storage to store data.
 
 ## Features
